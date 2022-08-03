@@ -1,0 +1,247 @@
+{
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Religious Institution": "St. Joseph Korean Catholic Center"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.571941,
+          34.208082
+        ],
+        "type": "Point"
+      },
+      "id": "3923738880581195adaf6a396c4b0bd4"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Religious Institution": "Fatima Islamic Society"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.600009,
+          34.202687
+        ],
+        "type": "Point"
+      },
+      "id": "5df04201de7d7f9f477f6df77bd9397f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Maru Bowl-Ritto (Korean)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.570618,
+          34.208059
+        ],
+        "type": "Point"
+      },
+      "id": "5e03c8ad5f46a43bb88f752836ea6851"
+    },
+    {
+      "type": "Feature",
+      "properties": {},
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -118.605819,
+              34.210192
+            ],
+            [
+              -118.562046,
+              34.210192
+            ],
+            [
+              -118.561947,
+              34.193728
+            ],
+            [
+              -118.605819,
+              34.193728
+            ],
+            [
+              -118.605819,
+              34.210192
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": "6c5eabc52dc48ef6a5f6b926c84fa6ff"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Tacos Wow (Mexican)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.571546,
+          34.208214
+        ],
+        "type": "Point"
+      },
+      "id": "75609ef52c347d9ce4507775eddead3a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Poncho's Restaurant (Mexican)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.571665,
+          34.200874
+        ],
+        "type": "Point"
+      },
+      "id": "87f36251263228b9c38425a437c7a4b9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Kalsea Grill Catering (Filipino)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.572723,
+          34.208642
+        ],
+        "type": "Point"
+      },
+      "id": "92c4504011bd877871eb47759c65b900"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurants": "Johnny Pacific (Latin American)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.571996,
+          34.209316
+        ],
+        "type": "Point"
+      },
+      "id": "9509847574250fe5f05408fe30f9d428"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Restautant Limeno (Salvadoran)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.578454,
+          34.201436
+        ],
+        "type": "Point"
+      },
+      "id": "a17c3c921146044997e8451d2fd62106"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Religious Institution": "Valley Sikh Temple"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.602498,
+          34.204955
+        ],
+        "type": "Point"
+      },
+      "id": "a8b7fcd2ce2ee44ad7abce9269fcfd19"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Carillo's Mexican Deli (Mexican)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.563744,
+          34.20079
+        ],
+        "type": "Point"
+      },
+      "id": "b9b75d74c7fa3c34516e5d7010b982f6"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grocery": "Hoa Viet Market(Vietnamese)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.590906,
+          34.201865
+        ],
+        "type": "Point"
+      },
+      "id": "cf721734038cb8137690c8ea6303792f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Mariscos Los Arcos (Mexican)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.588022,
+          34.194704
+        ],
+        "type": "Point"
+      },
+      "id": "e594f439140bea5b101d7dc0e9734fd0"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Social Services Organization": "Organization of Istanbul Armenians"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.563361,
+          34.20076
+        ],
+        "type": "Point"
+      },
+      "id": "e67a01bca0ca37f7095871bb4dc3fbd3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Grocery": "Lovely Spice Land Inc. (Indian)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.570694,
+          34.207975
+        ],
+        "type": "Point"
+      },
+      "id": "e94558c37a672950f96dc89c1c629656"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Restaurant": "Baba Sweets (Indian)"
+      },
+      "geometry": {
+        "coordinates": [
+          -118.596221,
+          34.208037
+        ],
+        "type": "Point"
+      },
+      "id": "f3b7e09d982b062e69688027534e0f30"
+    }
+  ],
+  "type": "FeatureCollection"
+}
